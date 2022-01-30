@@ -120,4 +120,7 @@ Format
 
 ## [Parteek](https://github.com/Pdahiya5033)
 
+## [Manya Bisht](https://github.com/manya0210)
+
+
 
